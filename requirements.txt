@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+dependency-injector
+loguru
+pytesseract
+Pillow
+python-multipart
+streamlit
+pytest
+httpx
+openai
+pymupdf
